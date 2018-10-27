@@ -1,0 +1,22 @@
+{
+  "appSecret": "bb7f98616cb125b5d8a882fbbfbc60e2",
+  "pageAccessToken": "EAAfJXlZCEuVEBADKZCViVOTxMTbKIdaJhqZAJSDzSf4R0AZCCyJh3vKZBAZBEs6cGOGra4WJhBFykd3fFJgukXtH29HdJUna43h32VUlk47i2vZCVFrmIdInkUwqg04fynjbpvLhOlf4cpZBdnOpJwecqsVLZAuNYh0JPbV9ZBXkYkUgZDZD",
+  "validationToken": "14532dc00513d4083b8276aa895859b1",
+  "serverURL": "https://chatbot-movie-app-9.localtunnel.me",
+  "theMovieDBToken": "0976f626776b1831f0b2a16e53c14068",
+  "dialogFlowClientAccessToken": "7ff0915692754ec887f7e71b67af5c32",
+  "dialogFlowDeveloperAccessToken": "617f754909ce4722b14412035943fd02",
+  "projectID": "movie-chatbot-agent",
+  "serviceAccount": {
+    "type": "service_account",
+    "project_id": "movie-chatbot-agent",
+    "private_key_id": "c8029ea83b4f619621e574e99879378a2eaeee91",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDv2Y4GnpSWKmqf\nUo7LUljMv7fh8dnZjAefkOT1Yt5BDv+RQVd9gCxqDxiQE+kg14Jzqj5e3tKoF2jJ\nBwlUG0kZzofssLq79dnNs/DD2pVzflhrjyRlSg8ARARNOg12zmEX30JnythSaZme\n5QRrALvHLth9WcA7TS3fB6gRT95uruaZzSafbCZcMP23fErMFMd7MMgUzRLAE0E+\nh7idzRhob+BnyQFxkQpu9ug/83mAVYor62UYHlJ5ypmKldbo96AuEN5bpUPIo/26\n8qjXXGIGZNkrh0gqu+a7M3qDvaXFHiVmxQAEc3LRfvRGxDPwIl10emn7Abf372MK\nWfcHEkTFAgMBAAECggEABNT3j1dbSfRG6binx3LuEybF04QOvDBk75acSqZbvxpW\nhrVv5EeGJKWBUcjZWIb5mDKYarzAGgJ4Dap9kVeWRHlTnq6SU5cou7zeG+TdI1mq\n3coTDcv+3tBxv72lfTyfdqzRzdJ87bZSkci8joxnZrJ2n7aEjSm7CuXrbCOjmsv2\n6Fu8TuPXaPf5hErCDp8YSfC1tTMtg3+gRJ0pnjT/vJs6HJq/2OwhY2UBZdm2Gr/t\npA7kAWinfpVGO1TQgm4C1GDIwaZDjNLd8+7SRQFrqxof/KgY0YgPbhl1L5JkviWu\nCgn2qlP+RDH9HBNVsse7aukk93u/8YtM1KfCR0r0TwKBgQD5b7T7Uijx+nL5Hvk3\npKV8RVFMBRNzITkfPU7VT4Yl63rlHQqjzODaIBfNU1clHmIEaCIWgOM0x9SCZkni\nIlq5WKx0hX42/YX00TYp3FZKRmVM7qhWzJUTT9lvtR3kO1eG6iZ3qmNgqLRCSgWn\nW3oH1tNgZ8WaMzS8leUne9Se/wKBgQD2KUT9+EYLTSWQCFPTO+TV1JGHvAEvPl8H\n7AZ7sTfYRRP+01m95DSB4XU5EjSwVJZi4F6YuG6X4XJXAslPZcn0Uft6ORn83bGd\nCVesLoVXu22GYIKpp32JzcmsKEanB+O7fG+EBMrEJKuiR6HdGgp78p81UUy1cqmq\nTygScI5gOwKBgQDi3dX265AwHgFqUeCL2mVlNMqvYMKC6UnB/wnve0fgv19keViP\nCK3N1nivmEhfi1XM+kVewFVmUQYYoB483dA0WdFonW3haA7pT0t7IVsebQ5/vWVA\npQxFp091iX6pccu2+sqH9mIyrN5emGKyB8Ji1OImAdw41q/1gkQM+FS3UwKBgFzK\nMbeKXtzjt8UTXoXBjgEMn88Kj2e/mxLhZZA6vVJIt8DW6n0qCKDs28MnmbTeLdIX\nwZDP9OBLm04xPrEvLXFrdeAcpi8rYkhPvTyqTJlFjYOZ3acV+7x2Vg8PH5LW5oFF\n5sNdCxHkwM3rMpiluE4ApwLyInhDQLFyJSjORN0BAoGBAPWauygSIyr6PUKhpOLk\nW4CnoPYx7OXoxGd8kHfhzVP483Aj6kWLYfCK0GMdimuyt+40psRG0xZdbLOoz7f5\ntFWzHHYwV9rGqMFatzgVGC48S13CgYxAxyRLrouXWWfBaUvYjSkJqIzPd6gF9Wog\nZExdnORafGmz0T1Wo5g4javJ\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-dvd69@movie-chatbot-agent.iam.gserviceaccount.com",
+    "client_id": "110421338576204850550",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dvd69%40movie-chatbot-agent.iam.gserviceaccount.com"
+  }
+}
