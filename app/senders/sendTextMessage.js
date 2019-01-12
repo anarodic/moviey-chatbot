@@ -9,7 +9,7 @@ const messageData = {
 		},
 		message: fallbackMessage
 	};
-
+console.log(messageData);
 	sendTypingOn(recipientId);
 	callSendAPI(messageData);
 	sendTypingOff(recipientId);
