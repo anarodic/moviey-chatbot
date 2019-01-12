@@ -70,7 +70,7 @@ const cinemaAction = {
 const getStartedAction = {
 	intent: intents.getStartedIntent,
 	sendMessage: senders.sendMessage,
-	serviceCall: function () {},
+	serviceCall: function () {return Promise.resolve([])},
 	template: undefined,
 	entity: undefined,
 	fallbackMessage: messages.moviesNotFound
