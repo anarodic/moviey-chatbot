@@ -13,7 +13,7 @@ module.exports = event => {
 		if (isActionFound) return;
 		if (action.intent === payload) {
 			isActionFound = true;
-			action.sendMessage(senderId, action.serviceCall, action.template);
+			action.sendMessage(senderId, action.serviceCall, action.template, action.fallBackMessage);
 		}
 	});
 

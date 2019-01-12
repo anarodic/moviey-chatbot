@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Moviey Chatbot for Facebook Messenger",
   "main": "app.js",
-  "engines": {
-    "node": "11.6.0"
-  },
   "scripts": {
     "start": "node app.js"
   },

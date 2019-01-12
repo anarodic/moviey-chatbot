@@ -69,8 +69,8 @@ const cinemaAction = {
 
 const getStartedAction = {
 	intent: intents.getStartedIntent,
-	sendMessage: senders.sendMessage,
-	serviceCall: function () {return Promise.resolve([])},
+	sendMessage: senders.sendTextMessage,
+	serviceCall: undefined,
 	template: undefined,
 	entity: undefined,
 	fallbackMessage: messages.moviesNotFound
