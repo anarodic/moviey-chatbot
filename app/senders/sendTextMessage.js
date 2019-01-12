@@ -7,9 +7,7 @@ const messageData = {
 		recipient: {
 			id: recipientId
 		},
-		message: {
-			text: fallbackMessage
-		}
+		message: fallbackMessage
 	};
 
 	sendTypingOn(recipientId);
