@@ -5,7 +5,7 @@ const sendTypingOff = require('./sendTypingOff');
 module.exports = (recipientId, serviceCall, template, fallbackMessage) => {
 const messageData = {
 		recipient: {
-			id: senderID
+			id: recipientId
 		},
 		message: {
 			text: fallbackMessage
