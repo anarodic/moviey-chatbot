@@ -73,7 +73,7 @@ const getStartedAction = {
 	serviceCall: undefined,
 	template: undefined,
 	entity: undefined,
-	fallbackMessage: messages.moviesNotFound
+	fallbackMessage: messages.getStartedMessage
 };
 
 module.exports = [
