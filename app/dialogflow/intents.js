@@ -6,6 +6,7 @@ const movieUpcomingIntent = 'movie-upcoming-intent';
 const movieRecommendationsIntent = 'movie-recommendations-intent';
 const cinemaIntent = 'cinema-intent';
 const cinemaMapIntent = 'cinema-map-intent';
+const getStartedIntent = 'get-started-intent';
 
 module.exports = {
     movieInfoIntent,
@@ -15,5 +16,6 @@ module.exports = {
     movieUpcomingIntent,
     movieRecommendationsIntent,
     cinemaIntent,
-    cinemaMapIntent
+    cinemaMapIntent,
+    getStartedIntent
 };

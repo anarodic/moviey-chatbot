@@ -1,0 +1,26 @@
+curl -X POST -H "Content-Type: application/json" -d '{"persistent_menu": [
+    {
+      "locale": "default",
+      "composer_input_disabled": true,
+      "call_to_actions": [
+            {
+                "type": "postback",
+                "title": "Popular Movies",
+                "payload": "movie-popular-intent",
+                "webview_height_ratio": "full"
+            },
+            {
+                "type": "postback",
+                "title": "Top Rated Movies",
+                "payload": "movie-top-rated-intent",
+                "webview_height_ratio": "full"
+            },
+            {
+                "type": "postback",
+                "title": "Upcoming Movies",
+                "payload": "movie-upcoming-intent",
+                "webview_height_ratio": "full"
+            }
+        ]
+  }
+]}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=EAAfJXlZCEuVEBADKZCViVOTxMTbKIdaJhqZAJSDzSf4R0AZCCyJh3vKZBAZBEs6cGOGra4WJhBFykd3fFJgukXtH29HdJUna43h32VUlk47i2vZCVFrmIdInkUwqg04fynjbpvLhOlf4cpZBdnOpJwecqsVLZAuNYh0JPbV9ZBXkYkUgZDZD"

@@ -67,6 +67,15 @@ const cinemaAction = {
 	fallbackMessage: messages.moviesNotFound
 };
 
+const getStartedAction = {
+	intent: intents.getStartedIntent,
+	sendMessage: senders.sendMessage,
+	serviceCall: function () {},
+	template: undefined,
+	entity: undefined,
+	fallbackMessage: messages.moviesNotFound
+};
+
 module.exports = [
 	movieInfoAction,
 	moviePopularAction,
@@ -74,5 +83,6 @@ module.exports = [
 	movieUpcomingAction,
 	movieRecommendationsAction,
 	cinemaMapAction,
-	cinemaAction
+	cinemaAction,
+	getStartedAction
 ];
